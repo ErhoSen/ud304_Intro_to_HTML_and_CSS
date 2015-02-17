@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, sans-serif;;
+    color: #666666;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 2em;
+}
+
+.subtitle {
+    color: #F07C17;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.title-super {
+    padding-top: 27px;
+    font-size: 48px;
+}
+
+.box {
+    border: solid 1px #CCCCCC;
+    margin-top : 30px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.image {
+    margin-top: 20px;
+}

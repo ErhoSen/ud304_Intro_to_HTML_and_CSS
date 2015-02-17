@@ -1,0 +1,47 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #D0C4AB;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+a {
+    color: inherit;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+.title-super {
+    color: #131A2D;
+    font-size: 60px;
+    font-weight: bold;
+}
+.text-thin {
+    color: #131A2D;
+    font-weight: 200;
+}
+
+.content {
+    background-color: #131A2D;
+}
+
+hr {
+    height: 2px;
+    background-color: #D0C4AB;
+}
+
+.h2title {
+    padding-left: 30px;
+}
+
+.work {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.stretch {
+    width: 100%;
+}
